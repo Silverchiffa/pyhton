@@ -1,2 +1,2 @@
-# pyhton
+# python
 examples of Python code
